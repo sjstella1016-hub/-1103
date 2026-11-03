@@ -1,0 +1,13 @@
+{
+  "name": "exhibition-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "한 문장으로 전시 제목과 설명을 만드는 웹페이지 (Claude / OpenAI)",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
